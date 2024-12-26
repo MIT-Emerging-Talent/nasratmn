@@ -1,4 +1,4 @@
-##Noormal
+# Noormal
 Hi, I'm Nasrat 👋
 
 Welcome to my GitHub profile! Here's a bit about me:
