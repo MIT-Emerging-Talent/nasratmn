@@ -13,12 +13,6 @@ Welcome to my GitHub profile! Here's a bit about me:
   - [LinkedIn](https://www.linkedin.com/in/nasratmaiwand/)
   - [Email](mailto:nasratmaiwand@gmail.com)
 
-## Projects
-
-Here are some of the cool things I've worked on:
-
-- [Project 1](https://github.com/nasratmn/project1)
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasratmn&show_icons=true&hide=contribs,issues&theme=radical)
