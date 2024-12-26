@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 💡 **Interests:** I am passionate about **learning coding** and **programming**.
 - 🚀 **Goal:** I aim to use technology to address real-world challenges and  
   drive impactful solutions.
-- 📫 **Reach me:** 
+- 📫 **Reach me:**
   - [LinkedIn](https://www.linkedin.com/in/nasratmaiwand/)
   - [Email](mailto:nasratmaiwand@gmail.com)
 
