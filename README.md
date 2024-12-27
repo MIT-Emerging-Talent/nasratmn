@@ -11,11 +11,12 @@ Welcome to my GitHub profile! Here's a bit about me:
   - [LinkedIn](https://www.linkedin.com/in/nasratmaiwand/)
   - [Email](mailto:nasratmaiwand@gmail.com)
 
-### **Want to Learn**
+## **Want to Learn**
+
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
+
 
 ## GitHub Stats
 
