@@ -1,7 +1,5 @@
 # Hi There, I'm Nasrat 👋
 
-
-
 Welcome to my GitHub profile! Here's a bit about me:
 
 - 🌱 **Background:** I hold a Master’s degree in Environmental Engineering  
@@ -12,9 +10,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 📫 **Reach me:**
   - [LinkedIn](https://www.linkedin.com/in/nasratmaiwand/)
   - [Email](mailto:nasratmaiwand@gmail.com)
-
-
-
 
 ### **Want to Learn**
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
