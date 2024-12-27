@@ -17,7 +17,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasratmn&show_icons=true&hide=contribs,issues&theme=radical)
